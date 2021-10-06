@@ -71,5 +71,6 @@ public class RotateAndSpiralMatrix {
             System.out.println();
         }
 
+        sc.close();
     }
 }
